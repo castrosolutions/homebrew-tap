@@ -1,6 +1,6 @@
 cask "chacharapp" do
-  version "1.4.0"
-  sha256 "2655e58156b6210261f6ff45aebd231444a5ccde45564a2128cd476250a96f3d"
+  version "1.4.1"
+  sha256 "25d26b134c0c64ff7442004e2f5128b244a22173ff21668d79f2eb6e6523144d"
 
   url "https://dl.juanpablocastro.com/releases/#{version}/ChacharApp-#{version}.dmg",
       verified: "dl.juanpablocastro.com/"
